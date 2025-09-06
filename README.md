@@ -37,9 +37,7 @@ This is an Android application developed using Java and Android Studio. The app 
 
 ## 🏗️ Project Structure
 
-<img width="800" height="525" alt="Screenshot 2025-09-06 201712" src="https://github.com/user-attachments/assets/4a450840-e74a-4714-9137-89e5e4e6a324" />
-<img width="800" height="525" alt="image" src="https://github.com/user-attachments/assets/e24e6ff2-79f3-4b97-8d01-76c0012c40e2" />
-
+<img width="400" height="525" alt="Screenshot 2025-09-06 201712" src="https://github.com/user-attachments/assets/4a450840-e74a-4714-9137-89e5e4e6a324" />
 
 ---
  
