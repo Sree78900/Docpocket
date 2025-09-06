@@ -5,8 +5,8 @@
 ## Table of Contents
 1. [Overview](#-overview)  
 2. [Features](#-features)  
-3. [Project Structure](#-projectstructure)  
-4. [Tech Stack](#-techstack)  
+3. [Project Structure](#-project-structure)  
+4. [Tech Stack](#-tech-stack)  
 5. [Getting Started](#-getting-started)  
    - [Prerequisites](#prerequisites)  
    - [Installation](#installation)  
