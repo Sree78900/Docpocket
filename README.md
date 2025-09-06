@@ -36,6 +36,7 @@ This is an Android application developed using Java and Android Studio. The app 
 ---
 
 ## 🏗️ Project Structure
+
 profile/
  ├── app/
  │   ├── src/main/java/com/example/profile/
@@ -52,7 +53,7 @@ profile/
  ├── settings.gradle
  └── gradle.properties
 
- ---
+---
  
 ## 🛠️ Tech Stack
 
