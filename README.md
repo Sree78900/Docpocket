@@ -3,7 +3,7 @@
 *Profile Android App*
 
 ## Table of Contents
-1. [Overview](#overview)  
+1. [Overview](#-overview)  
 2. [Features](#features)  
 3. [Project Structure](#project-structure)
 4. [Tech Stack](#tech-stack)
