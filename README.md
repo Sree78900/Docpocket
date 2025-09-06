@@ -37,21 +37,9 @@ This is an Android application developed using Java and Android Studio. The app 
 
 ## 🏗️ Project Structure
 
-profile/
- ├── app/
- │   ├── src/main/java/com/example/profile/
- │   │   ├── MainActivity.java
- │   │   ├── Fragments (HomeFragment, BookingFragment, HealthTrackerFragment, etc.)
- │   │   ├── Adapters (DoctorAdapter, CovidRegionAdapter, EmergencyAdapter, etc.)
- │   │   ├── Models (Doctor, CovidData, EmergencyItem, etc.)
- │   │   └── ApiService.java
- │   ├── src/main/res/   (Layouts, Drawables, Values, etc.)
- │   ├── AndroidManifest.xml
- │   ├── build.gradle
- │   └── google-services.json (Firebase integration)
- ├── build.gradle (Project-level)
- ├── settings.gradle
- └── gradle.properties
+<img width="800" height="525" alt="Screenshot 2025-09-06 201712" src="https://github.com/user-attachments/assets/4a450840-e74a-4714-9137-89e5e4e6a324" />
+<img width="800" height="525" alt="image" src="https://github.com/user-attachments/assets/e24e6ff2-79f3-4b97-8d01-76c0012c40e2" />
+
 
 ---
  
