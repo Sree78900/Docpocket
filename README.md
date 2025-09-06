@@ -57,13 +57,6 @@ This is an Android application developed using Java and Android Studio. The app 
 - Android SDK 24+
 - Gradle installed (comes with Android Studio)
 
-### Installation
-- Clone or download the repository
-    - git clone <repo-link>
-- Open the project in Android Studio
-- Sync Gradle to install dependencies
-- Run on an emulator or a physical Android device
-
 ---
 
 ## 📂 Important Files
